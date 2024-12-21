@@ -17,6 +17,7 @@ print(numbers.pop())
 print(numbers)
 
 del numbers[0]
+del numbers[0:3]
 print(numbers)
 
 justAnotherList = [1,2,3, "hello", "hi", 90.34, 23.99, ['a', 'b', ["abc", "def"]],]

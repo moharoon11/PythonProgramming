@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ec31893-42b7-46d2-bbcf-84d29fe72c60" name="Changes" comment="my first commit">
-      <change afterPath="$PROJECT_DIR$/String_Comments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variables_datatypes.py" afterDir="false" />
+    <list default="true" id="1ec31893-42b7-46d2-bbcf-84d29fe72c60" name="Changes" comment="Variables, Datatypes, Strngs, List">
+      <change afterPath="$PROJECT_DIR$/Dictonaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,21 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "moharoon11"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;moharoon11&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/moharoon11/PythonProgramming.git",
-    "accountId": "077cb9db-a73b-4058-828f-594d5a0d89c0"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/moharoon11/PythonProgramming.git&quot;,
+    &quot;accountId&quot;: &quot;077cb9db-a73b-4058-828f-594d5a0d89c0&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2qWOo4jAMWrYHDijF0N0LHwQIrh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -48,11 +49,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Dictonaries.executor": "Run",
+    "Python.Loops.executor": "Run",
     "Python.Operators.executor": "Run",
     "Python.String.executor": "Run",
     "Python.String_Comments.executor": "Run",
     "Python.list.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.set.executor": "Run",
     "Python.variables_datatypes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -84,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734775587126</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Variables, Datatypes, Strngs, List">
+      <option name="closed" value="true" />
+      <created>1734779230201</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734779230201</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="my first commit" />
+    <MESSAGE value="Variables, Datatypes, Strngs, List" />
+    <option name="LAST_COMMIT_MESSAGE" value="Variables, Datatypes, Strngs, List" />
   </component>
 </project>
