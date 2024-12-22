@@ -1,6 +1,7 @@
-number = int(input("Enter a number"))
+
 
 try:
+    number = int(input("Enter a number"))
     print(20 / number)
     print("number printed")
 except ZeroDivisionError:
