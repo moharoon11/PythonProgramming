@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ec31893-42b7-46d2-bbcf-84d29fe72c60" name="Changes" comment="Functions">
-      <change afterPath="$PROJECT_DIR$/Classes_Objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DateTime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FetchingDataFromInternet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileReadingBetterWay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FormattingDateTime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules_Imports/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules_Imports/modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadingFiles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WritingInFile.py" afterDir="false" />
+    <list default="true" id="1ec31893-42b7-46d2-bbcf-84d29fe72c60" name="Changes" comment="file operations, modules, classes and objects, datetime,functions,api calls">
+      <change afterPath="$PROJECT_DIR$/ExceptionHandling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PipRequestModule.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FetchingDataFromInternet.py" beforeDir="false" afterPath="$PROJECT_DIR$/FetchingDataFromInternet.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,11 +51,13 @@
     "Python.Classes_Objects.executor": "Run",
     "Python.DateTime.executor": "Run",
     "Python.Dictonaries.executor": "Run",
+    "Python.ExceptionHandling.executor": "Run",
     "Python.FetchingDataFromInternet.executor": "Run",
     "Python.FileReadingBetterWay.executor": "Run",
     "Python.FormattingDateTime.executor": "Run",
     "Python.Loops.executor": "Run",
     "Python.Operators.executor": "Run",
+    "Python.PipRequestModule.executor": "Run",
     "Python.ReadingFiles.executor": "Run",
     "Python.String.executor": "Run",
     "Python.String_Comments.executor": "Run",
@@ -134,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734807576364</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="file operations, modules, classes and objects, datetime,functions,api calls">
+      <option name="closed" value="true" />
+      <created>1734852337747</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734852337747</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -163,6 +167,7 @@
     <MESSAGE value="List, Set, Dictonaries, ForLoop" />
     <MESSAGE value="List, Set, Dictonaries, Loops" />
     <MESSAGE value="Functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Functions" />
+    <MESSAGE value="file operations, modules, classes and objects, datetime,functions,api calls" />
+    <option name="LAST_COMMIT_MESSAGE" value="file operations, modules, classes and objects, datetime,functions,api calls" />
   </component>
 </project>
